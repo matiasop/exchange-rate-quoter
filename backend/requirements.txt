@@ -4,3 +4,4 @@ black
 isort
 requests
 pydantic
+flask-cors
