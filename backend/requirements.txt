@@ -1,0 +1,6 @@
+flask
+pytest
+black
+isort
+requests
+pydantic
