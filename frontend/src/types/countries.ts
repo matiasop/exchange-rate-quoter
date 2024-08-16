@@ -3,3 +3,7 @@ export interface CountryCurrency {
   currency: string;
   id: string;
 }
+
+export interface CountryNames {
+  [isoCode: string]: string;
+}
